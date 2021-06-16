@@ -1,0 +1,236 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html
+	xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>Happy Birthday Virus!</title>
+		<link rel="shortcut icon" href="{Favicon}">
+			<link rel="alternate" type="application/rss+xml" href="{RSS}">
+				<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+					<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700' rel='stylesheet' type='text/css'>
+						<style type="text/css">
+    
+body {
+    margin: 0;
+    padding: 0;
+    background: #000000; /*change background color here*/
+    background: url(https://imgix.gizmodo.com.au/content/uploads/sites/2/2013/07/05/18s5a1f5kdtwigif.gif?ar=16%3A9&auto=format&fit=crop&q=65&w=720&nrs=30&fm=gif); /*change background here*/
+    color: #FFFFFF; /*change color of body font here*/
+}
+
+a {
+    text-decoration: none;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+a:hover {
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+#top-one {
+    position: fixed;
+    left: 4%;
+    top: 8%;
+    width: 35%;
+    height: 0px;    
+    border-top: 1px solid;
+    border-color: #FFFFFF; /*change border color here*/
+    box-shadow: 0 0 3px #FFFFFF; /*change border shadow color here*/
+}
+    
+#top-two {
+    position: fixed;
+    right: 4%;
+    top: 8%;
+    width: 35%;
+    height: 0px;
+    border-top: 1px solid;
+    border-color: #FFFFFF; /*change border color here*/
+    box-shadow: 0 0 3px #FFFFFF; /*change border shadow color here*/
+}
+    
+#left {
+    position: fixed;
+    left: 4%;
+    top: 8%;
+    height: 84%;
+    width: 0px;
+    border-left: 1px solid;
+    border-color: #FFFFFF; /*change border color here*/
+    box-shadow: 0 0 3px #FFFFFF; /*change border shadow color here*/
+
+}
+    
+#bottom {
+    position: fixed;
+    width: 92%;
+    height: 0px;
+    margin: 0 auto;
+    left: 0px;
+    right: 0px;
+    bottom: 8%;
+    border-bottom: 1px solid;
+    border-color: #FFFFFF; /*change border color here*/
+    box-shadow: 0 0 3px #FFFFFF; /*change border shadow color here*/
+}
+    
+#right {
+    position: fixed;
+    right: 4%;
+    top: 8%;
+    height: 84%;
+    width: 0px;
+    border-right: 1px solid;
+    border-color: #FFFFFF; /*change border color here*/
+    box-shadow: 0 0 3px #FFFFFF; /*change border shadow color here*/
+}
+
+#title {
+    margin: 0 auto;
+    left: 0px;
+    right: 0px;
+    width: 22%;
+    text-align: center;
+    top: 7%;
+    position: fixed;
+    font-family: Montserrat;
+    letter-spacing: 13px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#avatar {
+    width: 100%;
+    text-align: center;
+    top: 26%;
+    position: fixed;
+}
+
+#avatar img {
+    width: 125px;
+    height: 125px;
+}
+    
+#content {
+    width: 450px;
+    top: 43%;
+    height: 30%;
+    overflow: auto;
+    position: fixed;
+    margin: 0 auto;
+    left: 0px;
+    right: 0px;
+    padding-right: 15px;
+    text-align: justify;
+    font-size: 11px;
+    font-family: Arial;
+    line-height: 19px;
+    letter-spacing: 1px;
+}
+
+#navigation { 
+    position: fixed;
+    bottom: 2%;
+    width: 100%;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 16px;
+    letter-spacing: 5px;
+}
+    
+#navigation a {
+    color: #FFFFFF; /*change navigation color here*/
+    padding: 0px 10px;
+}
+
+::-webkit-scrollbar
+{
+    height: 10px;
+    width: 2px;
+    background: #FFFFFF;
+}
+           
+::-webkit-scrollbar-thumb:vertical
+{
+    background: #303030; /*change scrollbar color here*/
+}
+ 
+#c {
+    position: fixed;
+    bottom: 13px;
+    right: 15px;
+    font-family: Arial;
+}
+    
+#c a {
+    color: #FFFFFF; /*change credit color here*/
+    font-size: 18px;
+}
+    
+
+</style>
+					</head>
+					<body>
+						<div id="top-one"></div>
+						<div id="top-two"></div>
+						<div id="left"></div>
+						<div id="right"></div>
+						<div id="bottom"></div>
+						<div id="title">
+     HAPPY BIRTHDAY VIRUS!
+       
+							<!--change title here-->
+						</div>
+						<div id="avatar">
+							<img src="https://64.media.tumblr.com/b78021f7734dbfe26f597be6346d0c46/e421bd44dd1397fb-b6/s540x810/8816aad088283aaee53e8f403159eca180299d77.gifv" />
+							<img src="https://c.tenor.com/X0aCWKq2tD4AAAAj/hbd-birthday-cakes.gif" />
+							<img src="https://64.media.tumblr.com/d7f11069b3a822c7ddcec55da1aac3f7/e421bd44dd1397fb-43/s540x810/cbab554350004da6730b08caae80b243737f8dd1.gifv" />
+							<!--change avatar here-->
+						</div>
+						<div id="content">
+							<!--start of description-->
+							<br></br>
+							<h1 style="text-align:center;">
+								<strong style="color:red;"> O-tanjoubi Omedetou,
+
+									<br>Kazuya-Kun and Himari-chan!
+									</strong>
+								</h1>
+								<p style="text-align:center;">
+									<strong style="color:white;">This is your day! Have a blast!</strong>
+								</p>
+								<p style="text-align:center;">Date:
+									<strong> June 19th, 2021</strong>
+									<br>Time: 
+										<strong>7.30 PM (GMT +8)</strong>
+										<br>Venue: 
+											<strong>Yamamoto Household</strong>
+											<br>Dresscode: 
+												<strong>please be in your casual attire</strong>
+											</p>
+											<br>
+												<p style="text-align:center;">
+													<samp>
+														<strong style="color:white;">
+															<strong style="color:white;">To confirm
+																<br>Reply to this message
+																</samp>
+															</p>
+															<p style="text-align:center;">
+																<samp>
+																	<strong style="color:white;">To decline
+																		<br>Leave the message on seen
+																		</samp>
+																	</p>
+																	<br>
+																		<p style="text-align:center;">
+																			<i>direction to the event venue and access ID will be sent to your mobile phone on the day of the party.</i>
+																		</p>
+																		<!--end of description-->
+																		<iframe src="https://open.spotify.com/embed/track/6FonsLRJgqmxpQZWMi7knv" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media; autoplay"></iframe>
+																		<div id="c"></div>
+																	</body>
+																</html>
